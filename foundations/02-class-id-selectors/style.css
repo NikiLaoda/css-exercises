@@ -1,0 +1,21 @@
+p {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    font-size: 36px;
+    color: blue;
+}
+
+.div-special {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: greenyellow;
+}
+
+.p-special {
+    font-size: 26px;
+    font-weight: bold;
+}
